@@ -1,0 +1,22 @@
+[
+	{
+		"statement": "Kotlin är ett objektorienterat programmeringsspråk", 
+		"isCorrect": true,
+		"correctStatement":""
+	},
+	{
+		"statement": "Android OS bygger på linux kärna.", 
+		"isCorrect": true,
+		"correctStatement":""
+	},
+	{
+		"statement": "Data (variabler) av typerna int, float, boolean, long och String kan sparas som Shared Preferences.", 
+		"isCorrect": true,
+		"correctStatement":""
+	},
+	{
+		"statement": "ImageView är en subklass av klassen View", 
+		"isCorrect": true,
+		"correctStatement":""
+	}
+]
