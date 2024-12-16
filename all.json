@@ -1,0 +1,37 @@
+[
+	{
+		"statement": "Kotlin är ett objektorienterat programmeringsspråk", 
+		"isCorrect": true,
+		"correctStatement":""
+	},
+	{
+		"statement": "Android OS bygger på linux kärna.", 
+		"isCorrect": true,
+		"correctStatement":""
+	},
+	{
+		"statement": "En android app kan inte innehålla fler än en Activity.", 
+		"isCorrect": false,
+		"correctStatement":"Falskt. En android app kan innehålla flera Activities."
+	},
+	{
+		"statement": "Data (variabler) av typerna int, float, boolean, long och String kan sparas som Shared Preferences.", 
+		"isCorrect": true,
+		"correctStatement":""
+	},
+	{
+		"statement": "Metoden onCreate måste anropas explicit.", 
+		"isCorrect": false,
+		"correctStatement":"Falskt. Metoden onCreate körs när den Activity i vilken metoden är implementerad startas, utan explicit anrop."
+	},
+    {
+		"statement": "En fragment har egen UI och egen livscykel som är oberoende av parent-Activity livscykel.",
+		"isCorrect": false,
+		"correctStatement":"En fragment har egen UI och egen livscykel, men den är beroende av parent-Activity livscykel"
+	},
+	{
+		"statement": "ImageView är en subklass av klassen View", 
+		"isCorrect": true,
+		"correctStatement":""
+	}
+]
