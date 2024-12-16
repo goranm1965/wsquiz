@@ -1,0 +1,11 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Gorans quiz ws"
+    }
+  ],
+  "profile": {
+    "name": "wsquiz"
+  }
+}
